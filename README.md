@@ -6,8 +6,6 @@ This repository contains MATLAB scripts for exploring the concept of coercivenes
 
 The project includes scripts that generate plots and perform computations related to the coerciveness of functions and optimization techniques. The main focus is on understanding how coerciveness affects the performance of different optimization algorithms.
 
-## Scripts
-
 
 
 ## Usage
