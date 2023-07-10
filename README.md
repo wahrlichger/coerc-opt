@@ -8,9 +8,7 @@ The project includes scripts that generate plots and perform computations relate
 
 ## Scripts
 
-### contour_plot.m
 
-This script generates a contour plot of the function `f(x_1, x_2) = x_1^4 - 4x_1x_2 + x_2^4`. The function is plotted over the range `-2 <= x_1, x_2 <= 2` with a step size of `0.01`.
 
 ## Usage
 
